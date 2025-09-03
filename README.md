@@ -6,7 +6,7 @@ This repository contains my **Data Structures and Algorithms** (DSA) implementat
 ---
 
 ## 📂 Topics Covered
-- 🟢 Arrays  
+- 🟢 Arrays
 - 🔴 Strings  
 - 🔴 Linked List (Singly, Doubly, Circular)  
 - 🔴 Stack & Queue (Implementation + Applications)  
